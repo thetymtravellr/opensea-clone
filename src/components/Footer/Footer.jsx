@@ -137,7 +137,7 @@ const Footer = ({brand}) => {
             </FooterColumnContainer>
           </FooterRow>
           <FooterCopyrightBlock>
-            <p>© 2018 - 2022 Ozone Networks, Inc</p>
+            <p>©This clone was made by <a href="https://github.com/tymtravellr">Robiul Hasan</a></p>
             <CopyrightLinkContainer>
               <ColumnLinks href="/">Privacy Policy</ColumnLinks>
               <ColumnLinks href="/">Terms of Service</ColumnLinks>
